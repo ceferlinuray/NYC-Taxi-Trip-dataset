@@ -12,6 +12,7 @@ Language: SQL
 Techniques: Aggregations, subqueries, CTEs, window functions, date and time analysis, conditional logic, and percentile analysis
 
 Key Columns:
+
 •	tpep_pickup_datetime: The date and time when the meter was activated.
 
 •	tpep_dropoff_datetime: The date and time when the meter was turned off.
@@ -24,7 +25,6 @@ Key Columns:
 
 •	DOLocationID: TLC Taxi Zone where the meter was disengaged.
 
-•	RateCodeID: The applicable rate code at the end of the trip.
 
 
 
