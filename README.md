@@ -9,6 +9,9 @@ Database: PostgreSQL
 
 Language: SQL
 
+Dataset link: https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019
+
+
 Techniques: Aggregations, subqueries, CTEs, window functions, date and time analysis, conditional logic, and percentile analysis
 
 Key Columns:
